@@ -1,0 +1,19 @@
+{
+  "name": "keycaps",
+  "private": true,
+  "version": "0.1.0",
+  "description": "3d keyboard designer for the tagless challenge. no html tags in sight",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "howler": "^2.2.4",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
